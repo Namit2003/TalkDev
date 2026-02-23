@@ -4,7 +4,11 @@ A hands-free developer assistant that lets you control your entire git workflow 
 
 ## Demo
 
-![Demo video](Demo.mp4)
+<video src="Demo.mp4" controls width="800">
+  Your browser does not support the video tag.
+</video>
+
+[Download the demo video](Demo.mp4)
 
 ---
 
